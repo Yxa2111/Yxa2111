@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![yxaa's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yxa2111&layout=compact&bg_color=-25,00132c,003247&text_color=ffffff&title_color=fce4ec)](https://github.com/Yxa2111)
+[![yxaa's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yxa2111&layout=compact&bg_color=-25,00132c,003247&text_color=ffffff&title_color=fce4ec&count_private=true)](https://github.com/Yxa2111)
